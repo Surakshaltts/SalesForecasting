@@ -8,8 +8,6 @@ This application provides sales forecasting based on historical sales data. It a
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -72,15 +70,4 @@ This application provides sales forecasting based on historical sales data. It a
 - *Services*
   - SalesService.cs: Contains business logic for sales forecasting.
 - *Program.cs*: Main entry point of the application.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch (git checkout -b feature-branch).
-3. Make your changes.
-4. Commit your changes (git commit -am 'Add new feature').
-5. Push to the branch (git push origin feature-branch).
-6. Open a pull request.
 
